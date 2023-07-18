@@ -1,0 +1,1 @@
+https://nbviewer.org/github/tomioka-senpai/Gutenberg-novel-analysis/blob/main/Gutenberg-novel-analysis-part-2.ipynb
